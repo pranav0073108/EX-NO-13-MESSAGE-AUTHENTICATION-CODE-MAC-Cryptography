@@ -1,4 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
+## NAME: PRANAV K
+## REG.NO: 2305001026
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -78,6 +80,7 @@ int main() {
 ```
 
 ## Output:
+<img width="812" height="359" alt="image" src="https://github.com/user-attachments/assets/79a02d34-ad06-4160-af95-0d6033c8df5b" />
 
 
 ## Result:
